@@ -1,0 +1,32 @@
+p {
+  color: gray;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.block {
+  border-width: 2px;
+  width: 390px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 18px;
+}
+
+.content {
+  margin-bottom: 17px;
+}
+
+.agree {
+  background-color: rgb(129, 129, 224);
+  color: white;
+  font-size: 20px;
+  width: 400px;
+  padding-top: 7px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+}

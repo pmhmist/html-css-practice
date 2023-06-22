@@ -1,0 +1,28 @@
+.peroro {
+  vertical-align: middle;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 40px;
+}
+
+.content {
+  vertical-align: middle;
+  font-weight: bold;
+  margin-right: 120px;
+  margin-left: 5px;
+  font-family: Arial;
+  color: gray;
+}
+
+.tweet-button {
+  background-color: rgb(48, 206, 245);
+  color: white;
+  border: none;
+  vertical-align: middle;
+  width: 70px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 15px;
+  font-weight: bold;
+}

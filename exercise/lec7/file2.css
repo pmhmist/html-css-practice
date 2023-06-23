@@ -9,10 +9,12 @@
 .content {
   vertical-align: middle;
   font-weight: bold;
-  margin-right: 120px;
+  margin-right: 70px;
   margin-left: 5px;
+  font-size: 20px;
   font-family: Arial;
   color: gray;
+  border: none;
 }
 
 .tweet-button {

@@ -1,0 +1,46 @@
+p {
+  margin: 0;
+  
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: Arial;
+}
+
+.profile {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 40px;
+}
+
+.state {
+  width: 220px;
+  padding-left: 15px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.content {
+  color: gray;
+}
+
+.follow {
+  border: none;
+  background-color: rgba(0, 119, 255, 0.527);
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+}
